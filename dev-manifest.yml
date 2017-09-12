@@ -1,7 +1,6 @@
 ---
 applications:
-- name: company
-  random-route: true
+- name: company  
   instances: 1
   memory: 750M
   buildpack: java_buildpack
