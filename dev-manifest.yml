@@ -6,5 +6,5 @@ applications:
   memory: 750M
   buildpack: java_buildpack
   services:
-   - mycompdb
+   - companydb
      
