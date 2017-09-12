@@ -32,7 +32,6 @@ dependencies {
 	compile('mysql:mysql-connector-java')
 	compile('org.springframework.boot:spring-boot-starter-cloud-connectors')
 	runtime('com.h2database:h2')
-	compile('org.springframework.data:spring-data-jpa:1.11.7.RELEASE')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }
 
