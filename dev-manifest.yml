@@ -2,7 +2,7 @@
 applications:
 - name: company  
   instances: 1
-  memory: 750M
+  memory: 1G
   buildpack: java_buildpack
   timeout: 120
   services:
